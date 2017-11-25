@@ -17,7 +17,7 @@ using std::size_t;
 
 namespace main_savitch_15
 {
-  /* template <class Item>
+   template <class Item>
     graph<Item>::graph ( )// : many_vertices(0),allocated(0) 
    {
 	  many_vertices = 0;
@@ -25,7 +25,7 @@ namespace main_savitch_15
 	   edges = NULL;
 	   labels = NULL;
         // intentionally empty
-    }*/
+    }
 
 	template <class Item>
 	graph<Item>::graph(size_t initial_allocation){
